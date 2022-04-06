@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 1673008956
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: testab.ab
+      Dependencies: {}
+    Info_1:
+      Name: abtest/t1.ab
+      Dependencies: {}
